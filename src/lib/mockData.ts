@@ -8,7 +8,10 @@ export const mockMetrics = {
 export const mockChartData = [
   { month: 'Jan', users: 1200, conversions: 300 },
   { month: 'Feb', users: 1500, conversions: 380 },
-  ...
+  { month: 'Mar', users: 1800, conversions: 420 },
+  { month: 'Apr', users: 2100, conversions: 500 },
+  { month: 'May', users: 2400, conversions: 590 },
+  { month: 'Jun', users: 2800, conversions: 680 },
 ];
 
 export const mockTableData = [...Array(25)].map((_, i) => ({
