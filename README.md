@@ -9,6 +9,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![CI](https://github.com/deekshi07/AI-Powered-Analytics-Dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/deekshi07/AI-Powered-Analytics-Dashboard/actions/workflows/ci.yml)
 
 [Features](#-key-features) • [Tech Stack](#-technology-stack) • [Quickstart](#-quickstart-guide) • [Architecture](#-architecture)
 
