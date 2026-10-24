@@ -4,6 +4,7 @@
 
 **A high-performance enterprise analytics & metric visualization platform built with Next.js 15, React 19, Tailwind CSS, and Lucide React.**
 
+[![Live App](https://img.shields.io/badge/Live_App-Deployed_on_Vercel-success?style=for-the-badge&logo=vercel)](https://ai-powered-analytics-dashboard-nix1t3vaa-deekshi07s-projects.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-15.4-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19.1-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
